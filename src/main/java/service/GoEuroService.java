@@ -1,7 +1,6 @@
 package service;
 
-import Model.GoEuroModel;
-import org.json.JSONArray;
+import model.GoEuroModel;
 
 import java.util.List;
 

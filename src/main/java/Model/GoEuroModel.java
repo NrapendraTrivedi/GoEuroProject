@@ -1,4 +1,4 @@
-package Model;
+package model;
 
 /**
  * Created by NrapendraKumar on 12-07-2015.
@@ -16,7 +16,6 @@ public class GoEuroModel {
     public static GoEuroModel createGoEuroModel() {
         return new GoEuroModel();
     }
-
 
     public long get_id() {
         return _id;
